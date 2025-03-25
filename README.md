@@ -1,2 +1,2 @@
 # Beecrowd
-Resolução de diversos problemas para serem resolvidos em Python na materia de POO - UFSC
+Resolução de diversos problemas. Atualmente possui apenas Python.
